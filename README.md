@@ -2,8 +2,6 @@ Olá, eu sou Anderson Lyrio
 
 - Hoje trabalho num restaurante
 - 🌱 Estudo Python e Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Contate-me por email: anderson.lyrio15@gmail.com
 - 📫 Linkedin: https://www.linkedin.com/in/anderson-lyrio-98b359286/
 - 😄 Pronouns: ele/dele
