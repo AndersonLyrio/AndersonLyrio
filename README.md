@@ -1,16 +1,18 @@
-### Hi there 👋
+Olá, eu sou Anderson Lyrio
 
-<!--
-**LyrioDev/LyrioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- Hoje trabalho num restaurante
+- 🌱 Estudo Python e Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Contate-me por email: anderson.lyrio15@gmail.com
+- 📫 Linkedin: https://www.linkedin.com/in/anderson-lyrio-98b359286/
+- 😄 Pronouns: ele/dele
+
+<div>
+  <a href="https://github.com/LyrioDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyrioDev&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrioDev&layout=compact&langs_count=16&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lyrio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
