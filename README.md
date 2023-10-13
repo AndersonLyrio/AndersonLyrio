@@ -4,6 +4,7 @@ Olá, eu sou Anderson Lyrio
 - 🌱 Estudo Python e Javascript
 - 💬 Contate-me por email: anderson.lyrio15@gmail.com
 - 😄 Pronouns: ele/dele
+- Portfólio: https://lyriodev.github.io/projeto-android/
 
 <div>
   <a href="https://github.com/LyrioDev">
