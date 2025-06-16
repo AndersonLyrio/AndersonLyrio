@@ -8,8 +8,8 @@ Olá, eu sou Anderson Lyrio
 
 <div>
   <a href="https://github.com/AndersonLyrio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyrioDev&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrioDev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndersonLyrio&theme=dracula&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLyrio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lyrio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
