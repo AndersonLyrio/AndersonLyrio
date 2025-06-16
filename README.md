@@ -7,7 +7,7 @@ Olá, eu sou Anderson Lyrio
 
 
 <div>
-  <a href="https://github.com/LyrioDev">
+  <a href="https://github.com/AndersonLyrio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LyrioDev&theme=dracula&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LyrioDev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
